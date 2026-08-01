@@ -43,6 +43,8 @@ date_mask = (df['timestamp'].dt.date >= state_date) & (
     df['timestamp'].dt.date <= end_date)
 df = df[time_mask & date_mask]
 df = df[(df['accuracy_m'] <= 50) & (df['speed_kmh'] <= 10)]
+df['accuracy_m'] = df['accuracy_m'].round(2)
+df['speed_kmh'] = df['speed_kmh'].round(2)
 
 # save the cleaned data to a new CSV file
 df.to_csv('Data/processed/cleaned_tracks.csv', index=False)
