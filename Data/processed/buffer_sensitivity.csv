@@ -1,0 +1,5 @@
+fixed_radius_m,n_settlements_visited,n_settlements_not_visited,pct_visited
+50,731,1831,28.5
+100,846,1716,33.0
+150,923,1639,36.0
+250,1047,1515,40.9

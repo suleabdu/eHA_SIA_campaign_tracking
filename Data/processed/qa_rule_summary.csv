@@ -1,0 +1,13 @@
+rule,action,n
+QA1_source_day_mismatch,removed,818397
+QA2a_null_island_coordinate,removed,46
+QA2b_coord_swap_corrected,corrected,110
+QA3_implausible_speed,removed,1859
+QA4_outside_duty_hours,removed,37226
+QA5_unresolved_identity_conflict,removed,1310
+QA6_accuracy_degraded_flag,flagged_not_removed,17131
+QA6_accuracy_hard_ceiling,removed,0
+QA7_gap_events,flagged_event,78
+QA8_stationary_events,flagged_event,421
+FINAL_cleaned_tracks,retained,97864
+RAW_total,input,956702

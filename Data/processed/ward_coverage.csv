@@ -1,0 +1,41 @@
+ward_code,ward_name,lga_name,n_planned_accessible_settlements,n_track_visited,n_etally_reported,n_any_evidence_visited,n_plausible_miss,n_indeterminate_no_data,track_coverage_pct,etally_settlement_coverage_pct,any_evidence_coverage_pct,etally_dose_coverage_pct,n_active_days,n_track_active_days,n_etally_active_days,complete_gps_blackout,track_etally_discrepancy_pp,plausible_discrepancy_cause
+W001,Ekngoyi,Idi-Oro,121.0,16.0,99.0,99.0,22.0,0.0,13.2,81.8,81.8,69.6,5,4,5,False,68.6,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W002,Ekduru,Idi-Oro,101.0,10.0,85.0,85.0,16.0,0.0,9.9,84.2,84.2,72.3,5,2,5,False,74.3,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W003,Satita,Idi-Oro,111.0,27.0,81.0,85.0,26.0,0.0,24.3,73.0,76.6,60.5,5,5,5,False,48.7,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W004,Yesawo,Gwarin,42.0,5.0,35.0,35.0,7.0,0.0,11.9,83.3,83.3,74.7,5,2,5,False,71.4,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W005,Jijile,Gwarin,40.0,4.0,32.0,33.0,7.0,0.0,10.0,80.0,82.5,69.8,5,3,5,False,70.0,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W006,Okradu,Idi-Oro,128.0,7.0,103.0,104.0,24.0,0.0,5.5,80.5,81.2,68.5,5,3,5,False,75.0,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W007,Bayoyi,Idi-Oro,127.0,41.0,99.0,102.0,25.0,0.0,32.3,78.0,80.3,66.5,5,5,5,False,45.7,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W008,Umyosa,Idi-Oro,129.0,8.0,105.0,106.0,23.0,0.0,6.2,81.4,82.2,65.7,5,3,5,False,75.2,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W009,Washatu,Gwarin,38.0,30.0,32.0,34.0,4.0,0.0,78.9,84.2,89.5,71.9,5,5,5,False,5.3,Sources broadly consistent
+W010,Fazafa,Gwarin,46.0,33.0,42.0,43.0,3.0,0.0,71.7,91.3,93.5,77.4,5,5,5,False,19.6,Sources broadly consistent
+W011,Enyoko-Kofar,Gwarin,54.0,31.0,50.0,51.0,3.0,0.0,57.4,92.6,94.4,72.0,5,5,5,False,35.2,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W012,Darari,Gwarin,28.0,24.0,25.0,26.0,2.0,0.0,85.7,89.3,92.9,77.3,5,5,5,False,3.6,Sources broadly consistent
+W013,Sashako,Gwarin,30.0,25.0,27.0,27.0,3.0,0.0,83.3,90.0,90.0,67.6,5,5,5,False,6.7,Sources broadly consistent
+W014,Bishama,Idi-Oro,99.0,37.0,76.0,82.0,17.0,0.0,37.4,76.8,82.8,67.3,5,5,5,False,39.4,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W015,Baluru,Idi-Oro,139.0,51.0,106.0,117.0,22.0,0.0,36.7,76.3,84.2,66.2,5,5,5,False,39.6,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W016,Uzritu,Gwarin,47.0,36.0,39.0,43.0,4.0,0.0,76.6,83.0,91.5,66.7,5,5,5,False,6.4,Sources broadly consistent
+W017,Bazasa,Katsuma,44.0,30.0,31.0,33.0,11.0,0.0,68.2,70.5,75.0,66.5,5,5,5,False,2.3,Sources broadly consistent
+W018,Adwana,Gwarin,50.0,35.0,46.0,49.0,1.0,0.0,70.0,92.0,98.0,67.0,5,5,5,False,22.0,Sources broadly consistent
+W019,Umzaba-Kofar,Ilela,53.0,30.0,49.0,50.0,3.0,0.0,56.6,92.5,94.3,70.0,5,5,5,False,35.9,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W020,Famade,Idi-Oro,91.0,48.0,76.0,83.0,8.0,0.0,52.7,83.5,91.2,73.2,5,5,5,False,30.8,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W021,Yezata,Gwarin,42.0,28.0,32.0,36.0,6.0,0.0,66.7,76.2,85.7,77.8,5,5,5,False,9.5,Sources broadly consistent
+W022,Sudefa,Katsuma,22.0,17.0,17.0,17.0,5.0,0.0,77.3,77.3,77.3,65.2,5,5,5,False,0.0,Sources broadly consistent
+W023,Suwade,Katsuma,47.0,27.0,31.0,37.0,10.0,0.0,57.4,66.0,78.7,51.6,5,5,5,False,8.6,Sources broadly consistent
+W024,Kuraba-Kofar,Ilela,35.0,28.0,31.0,32.0,3.0,0.0,80.0,88.6,91.4,71.4,5,5,5,False,8.6,Sources broadly consistent
+W025,Okriba,Ilela,37.0,30.0,0.0,30.0,7.0,0.0,81.1,0.0,81.1,0.0,5,5,0,False,-81.1,Track coverage exceeds tally -- possible under-reporting or unlogged/incomplete e-tally entries
+W026,Kungomi,Katsuma,48.0,29.0,38.0,41.0,7.0,0.0,60.4,79.2,85.4,55.4,5,5,5,False,18.8,Sources broadly consistent
+W027,Daberi,Katsuma,40.0,32.0,30.0,34.0,6.0,0.0,80.0,75.0,85.0,52.2,5,5,5,False,-5.0,Sources broadly consistent
+W028,Wangoja,Ilela,53.0,28.0,49.0,49.0,4.0,0.0,52.8,92.5,92.5,82.1,5,5,5,False,39.7,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W029,Wangoni,Ilela,83.0,46.0,75.0,80.0,3.0,0.0,55.4,90.4,96.4,68.6,5,5,5,False,35.0,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W030,Yeride,Ilela,65.0,31.0,55.0,57.0,8.0,0.0,47.7,84.6,87.7,62.9,5,5,5,False,36.9,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W031,Satide,Katsuma,39.0,26.0,27.0,32.0,7.0,0.0,66.7,69.2,82.1,70.7,5,5,5,False,2.5,Sources broadly consistent
+W032,Bisani-Gabas,Ilela,51.0,36.0,49.0,49.0,2.0,0.0,70.6,96.1,96.1,83.1,5,5,5,False,25.5,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W033,Tasayi,Katsuma,64.0,4.0,51.0,51.0,13.0,0.0,6.2,79.7,79.7,71.3,5,5,5,False,73.5,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W034,Dodeta,Katsuma,54.0,9.0,46.0,47.0,7.0,0.0,16.7,85.2,87.0,66.6,5,5,5,False,68.5,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W035,Dazata,Ilela,63.0,0.0,51.0,51.0,0.0,12.0,0.0,81.0,81.0,71.1,5,0,5,True,81.0,"Complete GPS blackout -- zero surviving track points anywhere in this ward across all 5 days despite e-tally activity; treat track-derived coverage as unavailable, not zero"
+W036,Mawako,Ilela,35.0,5.0,32.0,32.0,3.0,0.0,14.3,91.4,91.4,68.9,5,3,5,False,77.1,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W037,Longoma,Katsuma,41.0,5.0,32.0,32.0,9.0,0.0,12.2,78.0,78.0,67.2,5,4,5,False,65.8,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W038,Sashasa,Katsuma,45.0,5.0,37.0,37.0,8.0,0.0,11.1,82.2,82.2,65.5,5,3,5,False,71.1,Track coverage well below tally -- investigate attribution tolerance and logger uptime
+W039,Nungoni-Arewa,Ilela,51.0,0.0,43.0,43.0,0.0,8.0,0.0,84.3,84.3,65.4,5,0,5,True,84.3,"Complete GPS blackout -- zero surviving track points anywhere in this ward across all 5 days despite e-tally activity; treat track-derived coverage as unavailable, not zero"
+W040,Gujiri,Ilela,54.0,5.0,47.0,47.0,7.0,0.0,9.3,87.0,87.0,69.4,5,3,5,False,77.7,Track coverage well below tally -- investigate attribution tolerance and logger uptime

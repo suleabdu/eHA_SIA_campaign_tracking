@@ -1,0 +1,5 @@
+lga_name,n_planned_accessible_settlements,n_track_visited,n_etally_reported,n_plausible_miss,track_coverage_pct,etally_settlement_coverage_pct,etally_dose_coverage_pct
+Gwarin,417.0,251.0,360.0,40.0,60.2,86.3,72.3
+Idi-Oro,1046.0,245.0,830.0,183.0,23.4,79.3,67.5
+Ilela,580.0,239.0,481.0,40.0,41.2,82.9,66.7
+Katsuma,444.0,184.0,340.0,83.0,41.4,76.6,63.4
