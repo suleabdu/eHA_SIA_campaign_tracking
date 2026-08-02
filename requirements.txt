@@ -1,0 +1,26 @@
+# Environment tested against Python 3.12 on Ubuntu 24.04 (see README "Environment" section).
+# Versions are pinned to the exact combination this pipeline was built and verified against.
+# Newer minor versions will very likely work but have not been verified.
+
+# Core scientific / data stack
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+
+# Geospatial stack
+geopandas==1.1.4
+shapely==2.1.2
+pyproj==3.7.2
+fiona==1.10.1
+
+# Spatial statistics (Getis-Ord Gi*, Local Moran's I, spatial weights matrices)
+esda==2.10.0
+libpysal==4.15.0
+mapclassify==2.10.0
+
+# Parquet I/O -- used only for fast intermediate caching between pipeline stages,
+# never as a delivered format
+pyarrow==25.0.0
+
+# Cartography / PDF map and figure rendering
+matplotlib==3.10.8
